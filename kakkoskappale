@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>nettisivun nimi</title>
+</head>
+
+<body>
+
+<center>
+
+<h2> Otsikko heading h1 h2 h3 jne </h2>
+
+<p>linkki wikipediaan <a href="https://en.wikipedia.org/wiki/Main_Page">wikipedia</a>.<p/>
+
+<p>p pitää nettisivun kappaleen kasassa </p> 
+
+<p> esimerkki: This paragraph (kappale)
+contains         a lot of spaces
+in the source         code,
+but the        browser
+ignores it.</p>
+
+<p> <b>bold eli lihavointi</b>
+
+<img width="600" height="300" src="kuva1.jpeg">
+
+<b><i><u>italia kirjaisin alaviivalla</i></b><u> </p>
+
+</center>
+</body>
+</html>
